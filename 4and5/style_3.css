@@ -1,0 +1,46 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+body {
+	width: 90%;
+	max-width: 900px;
+	border: 1px solid gray;
+	
+}
+
+h1 {
+	background-color: gray;
+	color: white;
+	padding-left: 20px;
+	font-size: 24px;
+	margin: 0;
+}
+
+h2{
+	font-size: 17px;
+	background-color: #CDC9C9;
+	width: 100px;
+	height: 100px;
+	margin-left: 0px;
+	padding-top: 35px;
+	text-align: center;
+	margin-top: 1px;
+	margin-bottom: 1px;
+	
+}
+
+h2, [class], h4, span, a{
+	float: left;
+}
+
+[class] {	
+	width: 100%;
+	border: 1px solid gray;
+}
+
+
+[class] h4 {
+	margin-left: 10px;
+}

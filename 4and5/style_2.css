@@ -1,0 +1,45 @@
+* {
+	margin: 0 auto;
+	margin-left: 10px;
+	box-sizing: border-box;
+}
+
+
+h1 {
+	float: left;
+	width: 15%;
+	height: 850px;
+	background-color: #66ccff;
+	color: white; 
+	text-align: center;
+	padding-top: 40px;
+}
+h2, div{
+	margin: 10px;
+}
+
+h4, p{
+	margin-left: 0;
+}
+
+[class], [class] div {
+	width: 75%;
+
+}
+
+[class], h4, span, a, [class] div {
+	
+	float: left;
+}
+
+
+
+.skill h4, .edu h4, .project h4 {
+	width: 100%;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+span {
+	margin-right: 20px;
+}
